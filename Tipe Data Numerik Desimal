@@ -1,0 +1,10 @@
+package main
+
+import "fmt"
+
+func main() {
+	var angkaDesimal = 2.58
+
+	fmt.Printf("Bilangan desimal : %f\n", angkaDesimal)
+	fmt.Printf("Bilangan desimal : %.3f\n", angkaDesimal) //menampilkan 3 angka dibelakang koma
+}
