@@ -1,0 +1,11 @@
+package main
+
+import "fmt"
+
+func main() {
+	var bilanganPositif = 1234
+	var bilanganNegatif = -5678
+
+	fmt.Printf("Bilangan Positif : %d\n", bilanganPositif)
+	fmt.Printf("Bilangan Negatif : %d\n", bilanganNegatif)
+}
