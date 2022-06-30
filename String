@@ -1,0 +1,10 @@
+package main
+
+import "fmt"
+
+func main() {
+	var message string = `Nama saya "John Doe".
+	Salam Kenal.
+	Mari belajar "Golang" bersama.`
+	fmt.Println(message)
+}
