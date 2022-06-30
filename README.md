@@ -1,2 +1,2 @@
-# hello-world
-Membuat Hello World
+# belajar
+Belajar dasar pemrograman Golang
